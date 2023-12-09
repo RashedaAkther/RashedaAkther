@@ -4,7 +4,6 @@
 - 🔭 I’m currently looking for a remote job as a Mern stack Developer
 
 <!-- - 👨‍💻 All of my projects are available at [https://delwer.netlify.app/](https://delwer.netlify.app/) -->
-
 - 👋 Hi, I’m @RashedaAkther
 - 👀 I’m interested in learning how things work.
 - 🌱 I’m currently learning to code.
@@ -25,11 +24,11 @@
 
 <h3 align="left">MERN Stack Projects:</h3>
 <ul>
-   <li>Live link - https://brand-shops.netlify.app/     <br>   Code link - </li> <br>
-   <li>Live link -  https://foods-donation.netlify.app/     <br>   Code link - </li> <br>
-   <li>Live link -  https://canvas-property-project.netlify.app/     <br>   Code link -  </li> <br>
-    <li>Live link -https://donation-projects.netlify.app/  <br> Code link - </li> <br> 
-   <li>Live link -  https://ephemeral-gecko-bb0fa0.netlify.app/   <br>   Code link -   </li> 
+   <li>Live link - https://brand-shops.netlify.app/     <br>  Client Code link -https://github.com/RashedaAkther/Brand-Shop </br> Server side code - https://github.com/RashedaAkther/Brand-Shop-Server  </li> <br>
+   <li>Live link -  https://foods-donation.netlify.app/  </br>  Code link - https://github.com/RashedaAkther/Donation-Client <br>
+   <li>Live link -  https://canvas-property-project.netlify.app/     <br>  Client Code link - https://github.com/RashedaAkther/canvas-Client </br> Server side code - https://github.com/RashedaAkther/canvas-Server-  </li> <br>
+    <li>Live link - https://donation-projects.netlify.app/  <br> Code link - https://github.com/RashedaAkther/Donation-Camp </li> <br> 
+   <li>Live link -  https://ephemeral-gecko-bb0fa0.netlify.app/ </br>  code Link - https://github.com/RashedaAkther/Ph-Tube  </li> 
    <!-- ph tube site last ta -->
  
 </ul>
